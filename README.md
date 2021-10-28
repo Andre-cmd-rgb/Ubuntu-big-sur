@@ -1,5 +1,5 @@
 # Ubuntu-big-sur
 -custom ubuntu distro
 -mac os theme
-#Updates
+# Updates
 -coming soon
